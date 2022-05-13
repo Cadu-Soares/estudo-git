@@ -1,5 +1,5 @@
-#Estudo de Git 💻
+<h1>Estudo de Git 💻</h1> 
 
-##Olá! Seja bem vindo 👋
+<h2>Olá! Seja bem vindo 👋</h2> 
 
  - Comandos Básicos
